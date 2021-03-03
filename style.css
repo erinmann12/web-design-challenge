@@ -1,0 +1,16 @@
+#left-image {
+    height: 250px;
+    width: 250px;
+  
+    float: left;
+  
+    margin-right: 15px;
+  
+  }
+
+.right-image {
+    height: 250px;
+    width: 250px;
+
+    margin-bottom: 15px;
+}
