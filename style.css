@@ -28,3 +28,19 @@ h3{
 .navbar-brand{
    background-color:rgb(209, 112, 128); 
 }
+
+h4{
+    margin-top: 20px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color:rgb(209, 112, 128);
+    text-align: center;
+}
+
+.comparison-image {
+    height: 400px;
+    width: 500px;
+    display: block;
+    margin-left:auto;
+    margin-right: auto;
+    margin-bottom: 15px;
+}
