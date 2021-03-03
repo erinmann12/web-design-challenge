@@ -14,3 +14,17 @@
 
     margin-bottom: 15px;
 }
+
+h2{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color:rgb(209, 112, 128);
+}
+
+h3{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color:rgb(209, 112, 128);
+}
+
+.navbar-brand{
+   background-color:rgb(209, 112, 128); 
+}
